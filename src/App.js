@@ -32,3 +32,21 @@ class App extends Component {
 }
 
 export default App;
+
+ //pass in key when you have a list of elements in react...The best way 
+
+// const num = ["who", "what", "where", "why"];
+
+// const newNum = num.map( (name,index) => {
+
+//   return  name+" "+index;
+// }
+   
+// )
+// console.log(newNum);
+//map is like replacing original list with a new list..very tricky but important
+//store.all(animal)
+//****practie enumerabals map.
+//the word next to the map is the one being replaced
+// *** to really understand how data is being moved throughout the code console.log(props) is the key to understanding
+//work on rendering a list of data to a page
